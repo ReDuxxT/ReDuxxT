@@ -1,10 +1,3 @@
-<!--
-  ENOCK TAI | GITHUB PROFILE README
-  Theme: Tokyo Night / midnight navy / electric blue
-  Repository: ReDuxxT
--->
-
-<!-- ==================== HERO HEADER ==================== -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,45:24283B,100:7AA2F7&height=210&section=header&text=ENOCK%20TAI&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20DEVELOPER&descAlignY=59&descSize=15"
@@ -29,24 +22,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReDuxxT&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
 ---
 
 ## 👋 About Me
 
-Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by building practical projects and solving problems with code.
+I'm **Enock Tai**, a Software Engineering student focused on building practical applications and strengthening my foundations across Java, Dart, and web development.
 
-- 🔭 **Currently working on:** Programming practice and software development projects.
-- 🌱 **Currently learning:** Java, Dart, Python and Flutter.
-- 🧩 **Exploring:** Web development, databases, APIs and application development.
-- 👯 **Looking to collaborate on:** Beginner-friendly open-source projects and useful developer tools.
-- 💬 **Ask me about:** My coding journey, programming fundamentals and the projects I'm building.
-- ⚡ **My mindset:** Learn consistently, build things that work, understand the mistakes, and improve.
+- **Currently building:** Programming exercises and small software projects.
+- **Current focus:** Java, Dart, Flutter, APIs, databases, and web development.
+- **Interested in:** Turning coursework concepts into complete, useful applications.
 
-> *Learning by doing. Building with purpose. Improving every day.*
+> I learn by building, testing, debugging, and documenting the process.
 
 ---
 
@@ -58,8 +44,6 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
@@ -67,18 +51,10 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
 ### ⚙️ Frameworks, Databases & Tools
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ---
@@ -94,23 +70,9 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
       <a href="https://github.com/ReDuxxT/Java-Dart-learning-journey.git">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Development</h3>
-      <p>Exploring mobile interfaces and app development with Flutter, with a focus on useful, user-friendly experiences.</p>
-      <p><strong>Focus:</strong> Dart, Flutter and UI development.</p>
-      <em>Project links coming as builds are published.</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Web Development</h3>
-      <p>Building web experiences and learning how frontend interfaces connect to server-side logic and databases.</p>
-      <p><strong>Focus:</strong> HTML, CSS, JavaScript, PHP and SQL.</p>
-      <em>More project details coming soon.</em>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 Learning Through Projects</h3>
-      <p>Small experiments and practical exercises that turn concepts from coursework into working code.</p>
-      <p><strong>Focus:</strong> Problem solving, debugging and documentation.</p>
+      <h3>🧪 Projects in Progress</h3>
+      <p>Programming exercises and practical projects covering mobile interfaces, web development, databases, and application logic.</p>
+      <p><strong>Focus:</strong> Building complete projects and improving code quality.</p>
       <a href="https://github.com/ReDuxxT?tab=repositories">Explore my repositories →</a>
     </td>
   </tr>
@@ -152,8 +114,8 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
 <p align="center">
   <a href="https://github.com/ReDuxxT">
     <img
-      src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ReDuxxT&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph"
-      alt="Enock's GitHub contribution activity graph"
+      src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ReDuxxT&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true"
+      alt="Enock Tai's GitHub contribution activity graph"
       width="100%"
     />
   </a>
@@ -167,15 +129,6 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
 <p align="center">
   <a href="https://www.linkedin.com/in/enock-tai-software-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://youtube.com/@tai254-w3c">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://instagram.com/loopylad_t">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://tiktok.com/@loopylad_t">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 </p>
 
