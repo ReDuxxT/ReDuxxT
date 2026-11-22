@@ -1,7 +1,7 @@
 <!--
   ENOCK TAI | GITHUB PROFILE README
   Theme: Tokyo Night / midnight navy / electric blue
-  Repository: Taienock241
+  Repository: ReDuxxT
 -->
 
 <!-- ==================== HERO HEADER ==================== -->
@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Taienock241">
-    <img src="https://img.shields.io/badge/GitHub-Taienock241-24283B?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub profile"/>
+  <a href="https://github.com/ReDuxxT">
+    <img src="https://img.shields.io/badge/GitHub-ReDuxxT-24283B?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/enock-tai-software-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Taienock241&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=ReDuxxT&style=flat-square&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
       <h3>📚 Daily Code Journey</h3>
       <p>A hands-on repository documenting my progress in Java and Dart, one small programming concept at a time.</p>
       <p><strong>Focus:</strong> Programming fundamentals, consistency and clean commits.</p>
-      <a href="https://github.com/Taienock241/Java-Dart-learning-journey.git">View repository →</a>
+      <a href="https://github.com/ReDuxxT/Java-Dart-learning-journey.git">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Mobile Development</h3>
@@ -111,7 +111,7 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
       <h3>🧪 Learning Through Projects</h3>
       <p>Small experiments and practical exercises that turn concepts from coursework into working code.</p>
       <p><strong>Focus:</strong> Problem solving, debugging and documentation.</p>
-      <a href="https://github.com/Taienock241?tab=repositories">Explore my repositories →</a>
+      <a href="https://github.com/ReDuxxT?tab=repositories">Explore my repositories →</a>
     </td>
   </tr>
 </table>
@@ -122,7 +122,7 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Taienock241&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://streak-stats.demolab.com?user=ReDuxxT&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
     width="90%"
     alt="GitHub current and longest contribution streak"
   />
@@ -134,12 +134,12 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Taienock241&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=ReDuxxT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taienock241&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDuxxT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
     alt="Most-used programming languages"
   />
@@ -150,9 +150,9 @@ Hey! I'm **Enock Tai**, a Software Engineering student who enjoys learning by bu
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/Taienock241">
+  <a href="https://github.com/ReDuxxT">
     <img
-      src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Taienock241&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph"
+      src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ReDuxxT&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true" alt="activity graph"
       alt="Enock's GitHub contribution activity graph"
       width="100%"
     />
