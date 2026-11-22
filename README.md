@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&height=45&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Java+%7C+Dart+%7C+Flutter+%7C+Web+Development;Turning+ideas+into+working+software;One+project+and+one+commit+at+a+time"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&height=45&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Java+%7C+Python+%7C+AI/ML+%7C+Mobile+Development;Turning+ideas+into+working+software;One+project+and+one+commit+at+a+time"
     alt="Learning, building, improving — Java, Python, mobile and web development"
   />
 </p>
