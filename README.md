@@ -58,12 +58,6 @@ I'm **Enock Tai**, a Software Engineering student focused on building practical 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Daily Code Journey</h3>
-      <p>A hands-on repository documenting my progress in Java and Dart, one small programming concept at a time.</p>
-      <p><strong>Focus:</strong> Programming fundamentals, consistency and clean commits.</p>
-      <a href="https://github.com/ReDuxxT/Java-Dart-learning-journey.git">View repository →</a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🧪 Projects in Progress</h3>
       <p>Programming exercises and practical projects covering mobile interfaces, web development, databases, and application logic.</p>
       <p><strong>Focus:</strong> Building complete projects and improving code quality.</p>
