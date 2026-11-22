@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,45:24283B,100:7AA2F7&height=210&section=header&text=ENOCK%20TAI&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20DEVELOPER&descAlignY=59&descSize=15"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:10051F,45:24103B,100:7C3AED&height=210&section=header&text=ENOCK%20TAI&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20DEVELOPER&descAlignY=59&descSize=15"
     width="100%"
     alt="Enock Tai — Software Engineering Student and Developer"
   />
@@ -8,14 +8,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&height=45&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Java+%7C+Dart+%7C+Flutter+%7C+Web+Development;Turning+ideas+into+working+software;One+project+and+one+commit+at+a+time"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&height=45&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Java+%7C+Dart+%7C+Flutter+%7C+Web+Development;Turning+ideas+into+working+software;One+project+and+one+commit+at+a+time"
     alt="Learning, building, improving — Java, Dart, Flutter and web development"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/ReDuxxT">
-    <img src="https://img.shields.io/badge/GitHub-ReDuxxT-24283B?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-ReDuxxT-24103B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub profile"/>
   </a>
   <a href="https://www.linkedin.com/in/enock-tai-software-engineer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -84,7 +84,7 @@ I'm **Enock Tai**, a Software Engineering student focused on building practical 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=ReDuxxT&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
+    src="https://streak-stats.demolab.com?user=ReDuxxT&theme=midnight-purple&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D"
     width="90%"
     alt="GitHub current and longest contribution streak"
   />
@@ -96,12 +96,12 @@ I'm **Enock Tai**, a Software Engineering student focused on building practical 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ReDuxxT&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=ReDuxxT&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"
     height="180"
     alt="GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDuxxT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDuxxT&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
     height="180"
     alt="Most-used programming languages"
   />
@@ -114,7 +114,7 @@ I'm **Enock Tai**, a Software Engineering student focused on building practical 
 <p align="center">
   <a href="https://github.com/ReDuxxT">
     <img
-      src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ReDuxxT&bg_color=00000000&color=8957e5&line=8957e5&point=c9d1d9&area=true&hide_border=true"
+      src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ReDuxxT&bg_color=10051F&color=C4B5FD&line=7C3AED&point=D8B4FE&area=true&hide_border=true"
       alt="Enock Tai's GitHub contribution activity graph"
       width="100%"
     />
@@ -139,7 +139,7 @@ I'm **Enock Tai**, a Software Engineering student focused on building practical 
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:24283B,100:161B22&height=120&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:24103B,100:10051F&height=120&section=footer"
     width="100%"
     alt="Decorative blue and navy footer"
   />
