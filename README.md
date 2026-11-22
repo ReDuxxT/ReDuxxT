@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:10051F,45:24103B,100:7C3AED&height=210&section=header&text=ENOCK%20TAI&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20STUDENT%20%7C%20DEVELOPER&descAlignY=59&descSize=15"
-    width="100%"
-    alt="Enock Tai — Software Engineering Student and Developer"
-  />
-</p>
+<h1 align="center">Software Engineering Student</h1>
 
 <p align="center">
   <img
