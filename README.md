@@ -23,7 +23,7 @@
 I'm **Enock Tai**, a Software Engineering student focused on building practical applications and strengthening my foundations across Java, Dart, and web development.
 
 - **Currently building:** Programming exercises and small software projects.
-- **Current focus:** Java, Dart, Flutter, APIs, databases, and web development.
+- **Current focus:** AI/ML, Python, APIs, databases, and mobile & web development.
 - **Interested in:** Turning coursework concepts into complete, useful applications.
 
 > I learn by building, testing, debugging, and documenting the process.
